@@ -7,20 +7,20 @@
     align-items: center;
 }
 
-@media screen and (min-width: 1279px){
+@media screen and (max-width: 1279px){
     .lead__content{
         min-width: 928px;
     }
   }
   
-  @media screen and (min-width: 1023px){
+  @media screen and (max-width: 1023px){
     .lead__content{
       margin: 0 auto 88px auto;
       min-width: 768px;
     }
   }
   
-  @media screen and (min-width: 767px){
+  @media screen and (max-width: 767px){
     .lead__content{
       margin: 0 auto 64px auto;
       min-width: 320px;
