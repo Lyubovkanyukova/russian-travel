@@ -21,6 +21,6 @@
 
 **Ссылка на GitHub Pages**
 
-
+https://lyubovkanyukova.github.io/russian-travel/index.html
 
 Спасибо за внимание!
