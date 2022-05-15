@@ -20,6 +20,7 @@
   .place{
     max-width: 928px;
     grid-template-columns: repeat( 2, minmax(440px, 1fr));
+    column-gap: 32px;
   }
 }
 
@@ -27,6 +28,7 @@
   .place{
     max-width: 720px;
     grid-template-columns: repeat( 2, minmax(340px, 1fr));
+    column-gap: 28px;
   }
 }
 

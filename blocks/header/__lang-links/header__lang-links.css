@@ -7,3 +7,11 @@
   grid-template-rows: 1fr;
   column-gap: 18px;
 }
+
+
+
+@media screen and (max-width: 767px) {
+  .header__lang-links{
+    margin: 14px 0 8px 0;
+  }
+}
